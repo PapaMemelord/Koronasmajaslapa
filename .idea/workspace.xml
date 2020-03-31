@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bf2c578-2c23-4628-af39-f8ff09a8e4b8" name="Default Changelist" comment="90% mājaslapas mājaslapas + fotkas">
-      <change afterPath="$PROJECT_DIR$/finaltouch.html" afterDir="false" />
+    <list default="true" id="0bf2c578-2c23-4628-af39-f8ff09a8e4b8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/galerija.html" beforeDir="false" afterPath="$PROJECT_DIR$/galerija.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/video_galerija.html" beforeDir="false" afterPath="$PROJECT_DIR$/video_galerija.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +62,7 @@
       <updated>1585657803928</updated>
       <workItem from="1585657805097" duration="3379000" />
       <workItem from="1585662497272" duration="13183000" />
-      <workItem from="1585680180159" duration="10867000" />
+      <workItem from="1585680180159" duration="11122000" />
     </task>
     <task id="LOCAL-00001" summary="Vēl izmaiņas ar video">
       <created>1585671367775</created>
@@ -109,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585689775330</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ir pulkstens 1.00 naktī un 100% mājaslapas ir pabeigts">
+      <created>1585691281074</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585691281074</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +124,8 @@
     <MESSAGE value="Sametu visu pareizajos folderos" />
     <MESSAGE value="90% mājaslapas pabeigta" />
     <MESSAGE value="90% mājaslapas mājaslapas + fotkas" />
-    <option name="LAST_COMMIT_MESSAGE" value="90% mājaslapas mājaslapas + fotkas" />
+    <MESSAGE value="ir pulkstens 1.00 naktī un 100% mājaslapas ir pabeigts" />
+    <option name="LAST_COMMIT_MESSAGE" value="ir pulkstens 1.00 naktī un 100% mājaslapas ir pabeigts" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Notifications" timestamp="1585671926832">
@@ -131,10 +136,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1280.272.1280.680@0.0.1920.1040" timestamp="1585687447781" />
-    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1585690633243">
+    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1585691278887">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040/-1280.272.1280.680@0.0.1920.1040" timestamp="1585690633243" />
+    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040/-1280.272.1280.680@0.0.1920.1040" timestamp="1585691278887" />
     <state x="830" y="413" key="Github.ShareDialog" timestamp="1585690292509">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

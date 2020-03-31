@@ -128,30 +128,34 @@
     <option name="LAST_COMMIT_MESSAGE" value="ir pulkstens 1.00 naktī un 100% mājaslapas ir pabeigts" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="552" y="178" key="#Notifications" timestamp="1585671926832">
+    <state x="552" y="178" key="#Notifications" timestamp="1585691450147">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="178" key="#Notifications/0.0.1920.1040/-1280.272.1280.680@0.0.1920.1040" timestamp="1585671926832" />
+    <state x="552" y="178" key="#Notifications/0.0.1920.1040/-1280.272.1280.680@0.0.1920.1040" timestamp="1585691450147" />
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585687447781">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1280.272.1280.680@0.0.1920.1040" timestamp="1585687447781" />
-    <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1585691278887">
+    <state x="603" y="92" width="842" height="811" key="CommitChangelistDialog2" timestamp="1585691427056">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="114" key="CommitChangelistDialog2/0.0.1920.1040/-1280.272.1280.680@0.0.1920.1040" timestamp="1585691278887" />
-    <state x="830" y="413" key="Github.ShareDialog" timestamp="1585690292509">
+    <state x="603" y="92" width="842" height="811" key="CommitChangelistDialog2/0.0.1920.1040/-1280.272.1280.680@0.0.1920.1040" timestamp="1585691427056" />
+    <state x="248" y="64" key="DiffContextDialog" timestamp="1585691408864">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="830" y="413" key="Github.ShareDialog/0.0.1920.1040/-1280.272.1280.680@0.0.1920.1040" timestamp="1585690292509" />
+    <state x="248" y="64" key="DiffContextDialog/0.0.1920.1040/-1280.272.1280.680@0.0.1920.1040" timestamp="1585691408864" />
+    <state x="830" y="413" key="Github.ShareDialog" timestamp="1585691446737">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="830" y="413" key="Github.ShareDialog/0.0.1920.1040/-1280.272.1280.680@0.0.1920.1040" timestamp="1585691446737" />
     <state x="461" y="162" key="SettingsEditor" timestamp="1585661037170">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1280.272.1280.680@0.0.1920.1040" timestamp="1585661037170" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1585689618428">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1585691379161">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.272.1280.680@0.0.1920.1040" timestamp="1585689618428" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.272.1280.680@0.0.1920.1040" timestamp="1585691379161" />
     <state x="-223" y="887" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585668263284">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

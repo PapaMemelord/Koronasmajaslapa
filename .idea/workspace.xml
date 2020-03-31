@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bf2c578-2c23-4628-af39-f8ff09a8e4b8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="0bf2c578-2c23-4628-af39-f8ff09a8e4b8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +66,7 @@
       <updated>1585657803928</updated>
       <workItem from="1585657805097" duration="3379000" />
       <workItem from="1585662497272" duration="13183000" />
-      <workItem from="1585680180159" duration="11122000" />
+      <workItem from="1585680180159" duration="11374000" />
     </task>
     <task id="LOCAL-00001" summary="Vēl izmaiņas ar video">
       <created>1585671367775</created>
@@ -119,7 +117,28 @@
       <option name="project" value="LOCAL" />
       <updated>1585691281074</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ir pulkstens 1.00 naktī un 100% mājaslapas ir pabeigts">
+      <created>1585691366173</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585691366173</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ir pulkstens 1.00 naktī un 100% mājaslapas ir pabeigts">
+      <created>1585691469398</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1585691469398</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ir pulkstens 1.00 naktī un 100% mājaslapas ir pabeigts">
+      <created>1585691536971</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1585691536971</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,10 +161,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1280.272.1280.680@0.0.1920.1040" timestamp="1585687447781" />
-    <state x="603" y="92" width="842" height="811" key="CommitChangelistDialog2" timestamp="1585691520214">
+    <state x="603" y="92" width="842" height="811" key="CommitChangelistDialog2" timestamp="1585691535122">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="603" y="92" width="842" height="811" key="CommitChangelistDialog2/0.0.1920.1040/-1280.272.1280.680@0.0.1920.1040" timestamp="1585691520214" />
+    <state x="603" y="92" width="842" height="811" key="CommitChangelistDialog2/0.0.1920.1040/-1280.272.1280.680@0.0.1920.1040" timestamp="1585691535122" />
     <state x="248" y="64" key="DiffContextDialog" timestamp="1585691408864">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -158,10 +177,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/-1280.272.1280.680@0.0.1920.1040" timestamp="1585661037170" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1585691491467">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1585691561273">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.272.1280.680@0.0.1920.1040" timestamp="1585691491467" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1280.272.1280.680@0.0.1920.1040" timestamp="1585691561273" />
     <state x="-223" y="887" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585668263284">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -174,5 +193,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="769" y="437" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/-1280.272.1280.680@0.0.1920.1040" timestamp="1585681275198" />
+    <state x="756" y="384" key="git4idea.rebase.GitRebaseDialog" timestamp="1585691675806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="384" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040/-1280.272.1280.680@0.0.1920.1040" timestamp="1585691675806" />
   </component>
 </project>

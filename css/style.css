@@ -107,6 +107,13 @@ a:hover{
     margin-bottom: 20px;
 }
 
+.vinnijs{
+    position: relative;
+    top: 20px;
+    height: 70%;
+    width: 60%;
+}
+
 .pamaciba{
     margin: 4px;
     position: relative;

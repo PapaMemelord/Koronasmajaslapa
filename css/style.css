@@ -129,24 +129,26 @@ a:hover{
 }
 
 @media only screen and (max-width: 1000px) {
-    .leftside{
+    .leftside {
         height: 150px;
-        width:100%;
+        width: 100%;
         position: relative;
     }
-    .rightside{
+
+    .rightside {
         display: none;
     }
 
-    .main{
-    width: 100%;
+    .main {
+        width: 100%;
         height: 1800px;
     }
-}
-    menu{
-        width:100%;
+
+    .menu {
+        width: 100%;
     }
-    .menu>ul>li{
+
+    .menu > ul > li {
         display: inline;
         padding: 20px 20px 20px 20px;
         background-color: dimgrey;
@@ -154,5 +156,14 @@ a:hover{
         font-family: Tahoma, serif;
         top: 30px;
         font-size: 22px;
+    }
+
+    .vinnijs {
+        position: relative;
+        top: 20px;
+        height: 30%;
+        width: 50%;
+    }
 }
+
 

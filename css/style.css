@@ -159,11 +159,17 @@ a:hover{
     }
 
     .vinnijs {
-        position: relative;
+        position: absolute;
         top: 20px;
         height: 30%;
         width: 50%;
     }
 }
 
+    .big{
+        top: 30px;
+        max-width: 2000px;
+        max-height: 2000px;
+        position: relative;
+    }
 

@@ -11,26 +11,33 @@
     <script src="./libs/bootstrap-4.4.1-dist/js/bootstrap.min.js"> </script>
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script src="./libs/lightbox/js/lightbox.js"></script>
-    <link rel="stylesheet" href="./libs/bootstrap-4.4.1-dist/css/bootstrap.min.css">
-    <script src="./libs/bootstrap-4.4.1-dist/js/bootstrap.min.js"> </script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"> </script>
+    <link rel="stylesheet" href="./libs/lightbox/css/lightbox.css">
 </head>
 <body>
 <div class="mainbox">
     <div class="menu">
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <a class="navbar-brand" href="sakums.html">Sākums</a>
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
-                    <li class="nav-item active">
+                    <li class="nav-item">
                         <a class="nav-link" href="./index.html">Informācija</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="./galerija.html">Galerija <span class="sr-only">(šobrīd)</span></a>
-                    </li>
+                    <div class="dropdown">
+                        <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="false" aria-expanded="false">
+                            Galerija
+                        </a>
+
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                            <a class="dropdown-item" href="./galerija.html">Attēlu pamācība</a>
+                            <a class="dropdown-item" href="./video_galerija.html">Video pamācība</a>
+                            <a class="dropdown-item" href="./finaltouch.html">SVARĪGI!</a>
+                        </div>
+                    </div>
                     <li class="nav-item">
                         <a class="nav-link" href="./kontakti.html">Kontakti</a>
                     </li>
@@ -38,11 +45,7 @@
             </div>
         </nav>
     </div>
-    <div class="leftside">
-        <a href="./galerija.html" class="pamaciba" >Attēlu pamācība</a><br>
-        <a href="./video_galerija.html"  class="pamaciba" >Video pamācība</a><br>
-        <a href="./finaltouch.html"  class="active pamaciba" >SVARĪGI!</a>
-    </div>
+    <div class="leftside"></div>
     <div class="main">
         <H1 class="title">Vinnijs pūks atgādina:</H1>
         <img src="./Images/No_swearing.jpg" class="vinnijs" alt="Vinnijs">

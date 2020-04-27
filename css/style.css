@@ -11,6 +11,7 @@
 }
 
 .leftside{
+    animation: transitionin 0.75s;
     background-color: rgba(8,179,255,0.15);
     width: 10%;
     height: 1000px;
@@ -26,6 +27,7 @@ a{
 }
 
 .main{
+    animation: transitionin 0.75s;
     background-color: rgba(8,179,255,0.15);
     width: 80%;
     height: 1000px;
@@ -35,6 +37,7 @@ a{
 
 
 .rightside{
+    animation: transitionin 0.75s;
     background-color: rgba(8,179,255,0.15);
     width: 10%;
     height: 1000px;
@@ -79,8 +82,9 @@ a:hover{
 }
 
 .active{
-    text-decoration: none;
-    -webkit-text-fill-color: red;
+    opacity: 100%;
+    -webkit-text-fill-color: white;
+    font-size: 16px;
 }
 
 .gallery{
@@ -110,7 +114,7 @@ a:hover{
 .vinnijs{
     position: relative;
     top: 20px;
-    height: 70%;
+    height:40%;
     width: 60%;
 }
 
@@ -128,48 +132,71 @@ a:hover{
     color: white;
 }
 
-@media only screen and (max-width: 1000px) {
-    .leftside {
-        height: 150px;
-        width: 100%;
-        position: relative;
-    }
 
-    .rightside {
-        display: none;
-    }
 
-    .main {
-        width: 100%;
-        height: 1800px;
-    }
-
-    .menu {
-        width: 100%;
-    }
-
-    .menu > ul > li {
-        display: inline;
-        padding: 20px 20px 20px 20px;
-        background-color: dimgrey;
-        position: relative;
-        font-family: Tahoma, serif;
+    .main-big{
         top: 30px;
-        font-size: 22px;
+        max-width: 70%;
+        max-height: 70%;
+        position: relative;
     }
 
-    .vinnijs {
-        position: absolute;
-        top: 20px;
-        height: 30%;
-        width: 50%;
+    .main{
+        animation: transitionin 1s;
+    }
+@keyframes transitionin {
+    from    {
+        opacity: 0;
+        transform: rotateX(-15deg);
+    }
+    to  {
+        opacity: 1;
+        transform: rotateX(0)
+
     }
 }
 
-    .big{
-        top: 30px;
-        max-width: 2000px;
-        max-height: 2000px;
-        position: relative;
-    }
+/* up till small devices, 242px and up */
+@media (min-width: 242px) {
+    .main{
+        color:gold;
+        height: 1500px;
 
+    }
+    .leftside{
+        height: 1500px;
+    }
+    .rightside{
+        height: 1500px;
+    }
+    
+
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+    .main{
+        color: green;
+    }
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+    .main{
+        color: pink;
+    }
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+    .main{
+        color: purple;
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .main{
+        color: #000033;
+    }
+}

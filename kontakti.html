@@ -13,21 +13,29 @@
 <body>
 <div class="mainbox">
     <div class="menu">
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
             <a class="navbar-brand" href="sakums.html">Sākums</a>
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
-                    <li class="nav-item active">
+                    <li class="nav-item">
                         <a class="nav-link" href="./index.html">Informācija</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="./galerija.html">Galerija</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="./kontakti.html">Kontakti <span class="sr-only">(šobrīd)</span></a>
+                    <div class="dropdown">
+                        <a class="btn btn-secondary dropdown-toggle" href="#" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="false" aria-expanded="false">
+                            Galerija
+                        </a>
+
+                        <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                            <a class="dropdown-item" href="./galerija.html">Attēlu pamācība</a>
+                            <a class="dropdown-item" href="./video_galerija.html">Video pamācība</a>
+                            <a class="dropdown-item" href="./finaltouch.html">SVARĪGI!</a>
+                        </div>
+                    </div>
+                    <li class="nav-item active">
+                        <a class="nav-link active" href="./kontakti.html">Kontakti <span class="sr-only">(šobrīd)</span></a>
                     </li>
                 </ul>
             </div>

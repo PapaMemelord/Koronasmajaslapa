@@ -158,45 +158,17 @@ a:hover{
 
 /* up till small devices, 242px and up */
 @media (min-width: 242px) {
-    .main{
-        color:gold;
+    .main {
+        color: gold;
         height: 1500px;
 
     }
-    .leftside{
+
+    .leftside {
         height: 1500px;
     }
-    .rightside{
+
+    .rightside {
         height: 1500px;
-    }
-    
-
-}
-
-/* Small devices (landscape phones, 576px and up) */
-@media (min-width: 576px) {
-    .main{
-        color: green;
-    }
-}
-
-/* Medium devices (tablets, 768px and up)*/
-@media (min-width: 768px) {
-    .main{
-        color: pink;
-    }
-}
-
-/* Large devices (desktops, 992px and up)*/
-@media (min-width: 992px) {
-    .main{
-        color: purple;
-    }
-}
-
-/* Extra large devices (large desktops, 1200px and up) */
-@media (min-width: 1200px) {
-    .main{
-        color: #000033;
     }
 }

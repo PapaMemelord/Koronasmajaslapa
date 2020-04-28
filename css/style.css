@@ -159,7 +159,6 @@ a:hover{
 /* up till small devices, 242px and up */
 @media (min-width: 242px) {
     .main {
-        color: gold;
         height: 1500px;
 
     }

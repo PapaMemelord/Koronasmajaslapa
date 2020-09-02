@@ -8,5 +8,5 @@ PhpStorm iespējams instalēt no https://www.jetbrains.com/phpstorm/
 # Programmas pielietojums:
 Savas lapas sākuma izveidei, lai to varētu pēctam pilnveidot.
 
-# Izmantotā literatūŗa:
+# Izmantotā literatūra:
 www.estudijas.rvt.lv
